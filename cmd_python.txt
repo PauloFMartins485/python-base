@@ -1,0 +1,3 @@
+which python - mostra onde o python está instalado
+python -m site - mostra o ambiente do seu python
+python -m venv .venv - cria uma nova venv
